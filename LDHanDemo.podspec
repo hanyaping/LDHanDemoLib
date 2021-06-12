@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "LDHanDemo"
-  s.version = "0.7.0"
+  s.version = "0.8.0"
   s.summary = "\u8FD9\u662F\u4E00\u4E2A\u7EC4\u4EF6\u5DE5\u7A0B"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"hyaping888"=>"245921027@qq.com"}
