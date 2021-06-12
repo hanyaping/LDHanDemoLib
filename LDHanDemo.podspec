@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name = "LDHanDemo"
-  s.version = "0.8.0"
+  s.version = "0.9.0"
   s.summary = "\u8FD9\u662F\u4E00\u4E2A\u7EC4\u4EF6\u5DE5\u7A0B"
   s.license = {"type"=>"MIT", "file"=>"LICENSE"}
   s.authors = {"hyaping888"=>"245921027@qq.com"}
@@ -11,7 +11,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target    = '9.0'
   #s.static_framework = true
-  s.ios.vendored_framework   = 'LDHanDemo.framework'
+  s.ios.vendored_framework   = 'Framework/LDHanDemo.framework'
 
 
 #s.source = { :git => 'https://github.com/hanyaping/LDHanDemoLib.git', :tag =>'0.7.0'  }
